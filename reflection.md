@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Henry Dare
+Sudent Email:  hddare@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I am continuing to be fascinated with how easy and well streamlit works. This assignment really showcased how adaptable and useful it can be, and how well it works with other aspects of data analytics (interpreting/filtering multiple different dataframes in the same instance). Ultimately, I found this lab very enjoyable and interesting.
